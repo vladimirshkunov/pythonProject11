@@ -15,4 +15,3 @@ elif age2 > age3 and age2 > age1:
     print('Б старше всех')
 elif age3 > age2 and age3 > age1:
     print('В старше всех')
-
